@@ -1,1 +1,105 @@
-
+<products>
+	<product>
+		<created_at>2021-08-27</created_at>
+		<updated_at>2021-08-27</updated_at>
+		<id>1820593</id>
+		<ref>061-52528</ref>
+		<parent_ref>70-1820593</parent_ref>
+		<name>FIDGET TOY</name>
+		<description>
+			<![CDATA[ Ein Trend-Spiel, bekannt geworden durch eine beliebte Socialmedia-Plattform, erobert die Welt. Das FIDGET TOY arbeitet mit Reihen von kleinen, geometrisch angeordneten Blasen und bedient das gleiche Verlangen vieler Menschen, das dazu verleitet, Luftpolsterfolie zum Platzen zu bringen. Anders als bei der Folie kann man bei diesem Spiel immer wieder aufs Neue starten und die Bläschen zum Ploppen bringen. Ein Spielzeug, das beim Stressabbau hilft oder als Spiel mit Anleitung für zwei Spieler Spaß einfach macht. Die weiche, rechteckige Silikonform kann mit einer Lasergravur oder einem Druck auf einer 50 x 20 mm breiten Fläche über den Bubbles veredelt werden. Sonderfarbe ab 1.000 Stück möglich! ]]>
+		</description>
+		<price>0.00</price>
+		<price_offer>3.46</price_offer>
+		<units/>
+		<is_offer>0</is_offer>
+		<is_highlighted>1</is_highlighted>
+		<stock/>
+		<last_import/>
+		<handling_cost/>
+		<provider>
+			<id>70</id>
+			<priority>0</priority>
+			<mappen_nr>-</mappen_nr>
+			<name>uploader</name>
+			<address/>
+			<address_num/>
+			<postcode/>
+			<city/>
+			<phone/>
+			<mobile/>
+			<fax/>
+			<web/>
+			<email/>
+			<last_update>2023-11-16</last_update>
+		</provider>
+		<attributes>
+			<attribute id="232" name="Farbe">
+				<values>
+					<value parent_product_id="0">Orange</value>
+					<value parent_product_id="0">Blau</value>
+					<value parent_product_id="0">Grün</value>
+				</values>
+			</attribute>
+			<attribute id="242" name="Druck">
+				<values>
+					<value parent_product_id="0">Druck</value>
+					<value parent_product_id="0">Lasergravur</value>
+				</values>
+			</attribute>
+			<attribute id="244" name="Material">
+				<values>
+					<value parent_product_id="0">Silikon</value>
+				</values>
+			</attribute>
+			<attribute id="279" name="Mindestbestellmenge">
+				<values>
+					<value parent_product_id="0">100</value>
+				</values>
+			</attribute>
+		</attributes>
+		<images>
+			<main_image>http://service.unipromos.com/productos/image/1820593</main_image>
+			<image>https://images.unipromos.com/images/70/5961332.jpg</image>
+			<image>https://images.unipromos.com/images/70/5961333.jpg</image>
+			<image>https://images.unipromos.com/images/70/5961334.jpg</image>
+		</images>
+		<categories>
+			<category id="12">Freizeit and Reisen</category>
+			<category id="42">Freizeit and Hobby</category>
+		</categories>
+		<prices>
+			<price>
+				<min>100</min>
+				<max>299</max>
+				<price>0.000</price>
+				<price_sell>3.46</price_sell>
+			</price>
+			<price>
+				<min>300</min>
+				<max>499</max>
+				<price>0.000</price>
+				<price_sell>3.27</price_sell>
+			</price>
+			<price>
+				<min>500</min>
+				<max>999</max>
+				<price>0.000</price>
+				<price_sell>2.96</price_sell>
+			</price>
+			<price>
+				<min>1000</min>
+				<max>1499</max>
+				<price>0.000</price>
+				<price_sell>2.79</price_sell>
+			</price>
+			<price>
+				<min>1500</min>
+				<max>0</max>
+				<price>0.000</price>
+				<price_sell>2.62</price_sell>
+			</price>
+		</prices>
+		<printpositions/>
+	</product>
+</products>
